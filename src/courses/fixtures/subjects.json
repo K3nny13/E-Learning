@@ -1,0 +1,26 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "CSharp",
+    "slug": "csharp"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Python",
+    "slug": "python"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Java",
+    "slug": "java"
+  }
+}
+]
